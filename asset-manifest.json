@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/animalsounds/static/css/main.c8306263.css",
-    "main.js": "/animalsounds/static/js/main.6abeb3b3.js",
+    "main.js": "/animalsounds/static/js/main.9acf74b2.js",
     "static/js/453.c764d250.chunk.js": "/animalsounds/static/js/453.c764d250.chunk.js",
     "index.html": "/animalsounds/index.html",
     "main.c8306263.css.map": "/animalsounds/static/css/main.c8306263.css.map",
-    "main.6abeb3b3.js.map": "/animalsounds/static/js/main.6abeb3b3.js.map",
+    "main.9acf74b2.js.map": "/animalsounds/static/js/main.9acf74b2.js.map",
     "453.c764d250.chunk.js.map": "/animalsounds/static/js/453.c764d250.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c8306263.css",
-    "static/js/main.6abeb3b3.js"
+    "static/js/main.9acf74b2.js"
   ]
 }
