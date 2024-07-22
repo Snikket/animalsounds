@@ -4,14 +4,14 @@ import AnimalCard from './AnimalCard';
 import './App.css';
 
 const animals = [
-  { name: 'Lion', image: '/animalsounds1/assets/images/lion.jpeg', sound: '/animalsounds1/assets/sounds/lion.mp3' },
-  { name: 'Tiger', image: '/animalsounds1/assets/images/tiger.jpeg', sound: '/animalsounds1/assets/sounds/tiger.mp3' },
-  { name: 'cat', image: '/animalsounds1/assets/images/cat.jpeg', sound: '/animalsounds1/assets/sounds/cat.mp3' },
-  { name: 'cow', image: '/animalsounds1/assets/images/cow.jpg', sound: '/animalsounds1/assets/sounds/cow.mp3' },
-  { name: 'dog', image: '/animalsounds1/assets/images/dog.jpeg', sound: '/animalsounds1/assets/sounds/dog.mp3' },
-  { name: 'pig', image: '/animalsounds1/assets/images/pig.avif', sound: '/animalsounds1/assets/sounds/pig.mp3' },
-  { name: 'zebra', image: '/animalsounds1/assets/images/zebra.jpeg', sound: '/animalsounds1/assets/sounds/zebra.mp3' },
-  { name: 'duck', image: '/animalsounds1/assets/images/duck.jpeg', sound: '/animalsounds1/assets/sounds/duck.mp3' },
+  { name: 'Lion', image: '/animalsounds/assets/images/lion.jpeg', sound: '/animalsounds/assets/sounds/lion.mp3' },
+  { name: 'Tiger', image: '/animalsounds/assets/images/tiger.jpeg', sound: '/animalsounds/assets/sounds/tiger.mp3' },
+  { name: 'cat', image: '/animalsounds/assets/images/cat.jpeg', sound: '/animalsounds/assets/sounds/cat.mp3' },
+  { name: 'cow', image: '/animalsounds/assets/images/cow.jpg', sound: '/animalsounds/assets/sounds/cow.mp3' },
+  { name: 'dog', image: '/animalsounds/assets/images/dog.jpeg', sound: '/animalsounds/assets/sounds/dog.mp3' },
+  { name: 'pig', image: '/animalsounds/assets/images/pig.avif', sound: '/animalsounds/assets/sounds/pig.mp3' },
+  { name: 'zebra', image: '/animalsounds/assets/images/zebra.jpeg', sound: '/animalsounds/assets/sounds/zebra.mp3' },
+  { name: 'duck', image: '/animalsounds/assets/images/duck.jpeg', sound: '/animalsounds/assets/sounds/duck.mp3' },
   // Add more animals here
 ];
 
